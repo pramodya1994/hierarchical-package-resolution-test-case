@@ -7,7 +7,7 @@
 observabilityIncluded = true
 
 [[dependency]]
-org="pramodya"
+org="winery"
 name="package_h"
 version="0.1.0"
 repository="local"

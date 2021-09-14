@@ -3,5 +3,7 @@ org = "winery"
 name = "package_h"
 version = "0.1.0"
 
+export = ["package_h.api.docs"]
+
 [build-options]
 observabilityIncluded = true
