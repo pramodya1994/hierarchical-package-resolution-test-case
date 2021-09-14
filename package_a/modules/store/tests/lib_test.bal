@@ -14,5 +14,5 @@ function beforeSuiteFunc() {
 function testFunction() {
     string name = "John";
     string welcomeMsg = writeAndStore(name);
-    test:assertEquals("Hello, John", welcomeMsg);
+    test:assertEquals("stored file:John", welcomeMsg);
 }
