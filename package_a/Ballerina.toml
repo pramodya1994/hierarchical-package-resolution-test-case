@@ -1,0 +1,13 @@
+# [package]
+# org="pramodya"
+# name="package_a"
+# version="0.2.0"
+
+[build-options]
+observabilityIncluded = true
+
+[[dependency]]
+org="pramodya"
+name="package_h"
+version="0.1.0"
+repository="local"
