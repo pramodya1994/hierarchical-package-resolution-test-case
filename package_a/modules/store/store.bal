@@ -1,4 +1,4 @@
-import winery/package_h.api.docs;
+import pramodya/package_h.api.docs;
 import ballerina/io;
 
 public function writeAndStore(string name) returns string {
